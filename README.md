@@ -1,2 +1,2 @@
-# il-mio-sitio-intenet
-Il mio primo sitio internet
+# il mio sitio intenet
+Ciao, mi chiamo Hilaria e questo è il mio primo repository del mio sitio internet.
